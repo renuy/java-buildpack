@@ -6,7 +6,7 @@ The `java-buildpack` is a [Cloud Foundry][] buildpack for running JVM-based appl
 To use this buildpack specify the URI of the repository when pushing an application to Cloud Foundry:
 
 ```bash
-$ cf push <APP-NAME> -p <ARTIFACT> -b https://github.com/cloudfoundry/java-buildpack.git
+$ cf push <APP-NAME> -p <ARTIFACT> -b https://github.com/renuy/java-buildpack.git
 ```
 
 ## Examples
